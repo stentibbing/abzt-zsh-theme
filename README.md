@@ -14,7 +14,7 @@ No nonsense ZSH theme with folder and git information. Looks great with Catppucc
 
 * Run the following command in the ZSH: 
     ```
-    git clone https://github.com/stentibbing/abzt.git $ZSH/custom/themes/abzt
+    git clone https://github.com/stentibbing/abzt-zsh-theme.git $ZSH/custom/themes/abzt
     ```
 
 * Change / add the line `ZSH_THEME="abzt"` in the .zshrc
