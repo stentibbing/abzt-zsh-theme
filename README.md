@@ -12,9 +12,10 @@ No nonsense ZSH theme with folder and git information. Looks great with Catppucc
 
 ## Installation
 
-* Run the following command in the ZSH: 
+* Run the following commands in the ZSH: 
     ```
-    git clone https://github.com/stentibbing/abzt-zsh-theme.git $ZSH/custom/themes/abzt
+    git clone https://github.com/stentibbing/abzt-zsh-theme.git    
+    ln -s $PWD/arrow-zsh-theme/abzt.zsh-theme $ZSH/custom/themes/abzt.zsh-theme
     ```
 
-* Change / add the line `ZSH_THEME="abzt"` in the .zshrc
+* Change / add the line `ZSH_THEME="abzt"` in the .zshrc file
