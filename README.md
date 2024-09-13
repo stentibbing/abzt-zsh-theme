@@ -2,6 +2,8 @@
 
 No nonsense ZSH theme with folder and git information. Looks great with Catppuccin.
 
+![Screenshot](screenshot.png)
+
 ## Prerequisites
 
 * The Z shell - [installing zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
